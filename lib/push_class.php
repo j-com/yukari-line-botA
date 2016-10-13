@@ -68,7 +68,7 @@ class Push
 
     public function toGetShortUrl($url)
     {
-        $api = 'AIzaSyA0ksR6vpBgQHfiktO4imsdwiz91OFIltU';
+        $api = '';
 
         $data = array(
             'longUrl' => $url
